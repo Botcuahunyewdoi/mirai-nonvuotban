@@ -10,11 +10,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "Bot Của Hưn",
     "PREFIX": "!",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100065606470834",
+        "100044857010088",
+        "100065606470834"
     ],
     "DATABASE": {
         "sqlite": {
